@@ -28,3 +28,10 @@ npm create vite@latest
 [CSS Variables 变量](https://developer.mozilla.org/zh-CN/docs/Web/CSS/var)
 
 CSS-modules
+
+## 2.8 集成 eslint 和 prettier
+
+```bash
+npm install eslint-config-standard eslint-plugin-import eslint-plugin-promise eslint-plugin-node -D
+```
+
