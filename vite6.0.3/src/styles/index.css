@@ -1,0 +1,9 @@
+:root {
+	/* 定义变量 */
+	--main-bg-color:brown;
+}
+
+.root {
+	/* 通过 var() 来引用变量 */
+	color: var(--main-bg-color);
+}
